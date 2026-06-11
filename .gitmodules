@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Volodymyr-Buryak/autorent-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Volodymyr-Buryak/autorent-frontend.git
